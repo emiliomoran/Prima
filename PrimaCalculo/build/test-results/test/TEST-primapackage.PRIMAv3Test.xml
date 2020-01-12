@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="primapackage.PRIMAv3Test" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-01-12T17:51:16" hostname="DESKTOP-STS8VQ4" time="0.016">
+  <properties/>
+  <testcase name="prima_c10" classname="primapackage.PRIMAv3Test" time="0.006"/>
+  <testcase name="prima_c11" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c12" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c13" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c14" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c1" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c2" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c3" classname="primapackage.PRIMAv3Test" time="0.002"/>
+  <testcase name="prima_c4" classname="primapackage.PRIMAv3Test" time="0.001"/>
+  <testcase name="prima_c5" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c6" classname="primapackage.PRIMAv3Test" time="0.001"/>
+  <testcase name="prima_c7" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c8" classname="primapackage.PRIMAv3Test" time="0.0"/>
+  <testcase name="prima_c9" classname="primapackage.PRIMAv3Test" time="0.001"/>
+  <system-out><![CDATA[Cálculo de Prima
+Prima: 550
+Cálculo de Prima
+Prima: 750
+Cálculo de Prima
+No cumplen con los requisitos.
+Cálculo de Prima
+No cumplen con los requisitos.
+Cálculo de Prima
+No cumplen con los requisitos.
+Cálculo de Prima
+No cumplen con los requisitos.
+Cálculo de Prima
+Prima: 1350
+Cálculo de Prima
+Prima: 1400
+Cálculo de Prima
+Prima: 850
+Cálculo de Prima
+Prima: 900
+Cálculo de Prima
+Prima: 400
+Cálculo de Prima
+Prima: 500
+Cálculo de Prima
+Prima: 250
+Cálculo de Prima
+Prima: 400
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
