@@ -17,7 +17,7 @@ public class PRIMAv3 {
 	}
 		
 	public int calcula_prima() {								
-		System.out.println("Cálculo de Prima");
+		System.out.println("CÃ¡lculo de Prima");
 				
 //			Scanner scan = new Scanner(System.in);
 //			System.out.print("Edad del conductor: ");
@@ -51,7 +51,7 @@ public class PRIMAv3 {
 			    	}
 			    }else {
 			    	factor_edad = 1.5;
-			    	if((30 - puntos_licencia)<=5) {
+			    	if((30 - puntos_licencia)<=4) {
 			    		reduccion_conductor_seguro = 200;
 			    	}
 			    }
